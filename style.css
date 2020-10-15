@@ -1,0 +1,49 @@
+body {
+    background: black;
+    color: white;
+}
+
+.navbar {
+    border-bottom: 4px solid #008ed6;
+    background: #292b2c;
+    opacity: 0.9;
+}
+
+
+.home {
+    background: url('img/IMG20200310175858.jpg') no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.dark-overlay {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.fa {
+    background: #fff;
+    color: #008ed6;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.home-inner {
+    padding-top: 140px;
+    padding-bottom: 50px;
+}
+
+.card {
+    opacity: 0.8;
+}
+
+.main .fa {
+    background: white;
+    color: #008ed6;
+}
+
+.share .fa {
+    background: white;
+    color: #008ed6;
+}
